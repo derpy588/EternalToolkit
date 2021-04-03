@@ -28,7 +28,7 @@ Works the same as auto installer except auto installer automaticly does these st
 ## Features
 - Hash Cracker
 - Dos (Not DDos)
-- IP Grabber
+- Proxy Scraper
 - Backdoor Generator
 - Shell for Backdoor
 - List IPs that you have grabbed
