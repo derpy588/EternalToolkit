@@ -33,4 +33,4 @@ Works the same as auto installer except auto installer automaticly does these st
 - Proxy Scraper
 - Backdoor Generator
 - Shell for Backdoor
-- List IPs that you have grabbed
+- Active Backdoors
